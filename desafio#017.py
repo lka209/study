@@ -8,4 +8,5 @@ from math import hypot
 co = float(input('valor do cateto oposto:'))
 ca = float(input('valor do cateto adjacente:'))
 H = hypot(co, ca)
-print('a hipotenusa vai medir {:.2f}'.format(H))
+print(f'a hipotenusa vai medir {H:.2f}')
+
