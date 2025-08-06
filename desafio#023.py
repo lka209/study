@@ -7,5 +7,5 @@ print(f'analisando o numero: {}'.format(numero))
 print(f'unidade:{u}')
 print(f'dezena:{d}')
 print(f'centena:{c}')
-
 print(f'milhar: {m}')
+
